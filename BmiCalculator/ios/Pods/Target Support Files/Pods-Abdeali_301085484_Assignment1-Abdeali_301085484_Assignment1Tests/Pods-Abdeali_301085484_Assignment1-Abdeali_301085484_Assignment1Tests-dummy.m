@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Abdeali_301085484_Assignment1_Abdeali_301085484_Assignment1Tests : NSObject
+@end
+@implementation PodsDummy_Pods_Abdeali_301085484_Assignment1_Abdeali_301085484_Assignment1Tests
+@end

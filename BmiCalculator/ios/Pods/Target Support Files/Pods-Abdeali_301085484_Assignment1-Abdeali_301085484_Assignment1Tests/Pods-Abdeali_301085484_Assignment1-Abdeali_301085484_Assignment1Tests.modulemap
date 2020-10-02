@@ -1,0 +1,6 @@
+module Pods_Abdeali_301085484_Assignment1_Abdeali_301085484_Assignment1Tests {
+  umbrella header "Pods-Abdeali_301085484_Assignment1-Abdeali_301085484_Assignment1Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
